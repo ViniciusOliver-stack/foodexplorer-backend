@@ -1,5 +1,6 @@
 ## :fries: FoodExplorer - Back-end
 > Este projeto é um cardápio digital para um restaurante fictício.
+
 ![Capa](https://i.imgur.com/5SJvIpb.png)
 
 ### :computer: Sobre
