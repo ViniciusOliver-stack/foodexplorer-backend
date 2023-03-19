@@ -52,13 +52,13 @@ Acesse o resultado da aplicação [Food Explorer](https://foodexplorer-frontend.
 > _Server is running on port 3333_
 
 ### Para ter acesso a aplicação utilize as seguintes contas
-<b>Como admin:</b>
-email: admin@email.com
+<b>Como admin:</b> </br>
+email: admin@email.com </br>
 senha: 123456
 
-<b>Como user:</b>
-email: user@email.com
-senha: 123456
+<b>Como user:</b> </br>
+email: user@email.com </br>
+senha: 123456 
 
 > :warning: _Por essa aplicação se encontrar hospedada em um serviço gratuito, o Backend "hiberna" após 15 minutos de inatividade.
 > Se você tentar acessar o site e não houver uma resposta, aguarde aproximadamente 1 minuto ou mais pois ele estará "inicializando" os serviços._
